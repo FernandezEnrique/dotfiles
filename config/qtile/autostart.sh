@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# Volume
+volumeicon &
